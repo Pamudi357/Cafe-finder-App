@@ -1,3 +1,6 @@
+> Note: This app is under active development. Features like advanced filtering and UI enhancements are coming soon.
+
+
 # Cafe Finder App
 A simple web app to find nearby cafes using **Google Maps JavaScript API**.
 
